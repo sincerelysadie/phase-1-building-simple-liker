@@ -3,7 +3,11 @@ const EMPTY_HEART = '♡'
 const FULL_HEART = '♥'
 
 // Your JavaScript code goes here!
-
+// fetch("http://mimicServer.example.com")
+//   .then((data) => console.log(data));
+//     .catch((error) => { 
+//       document.body.innerHTML = error.message
+//     })
 
 
 
